@@ -9,5 +9,4 @@ In this project, I gained hands-on experience with:
 * **Assets**: Implementing images with proper attributes.
 * **Git/GitHub**: Working with the command line to clone, add, commit, and push changes via SSH.
 
-## Live Demo
-*Coming soon!* (I'll add the link once I learn how to host on GitHub Pages).
+
